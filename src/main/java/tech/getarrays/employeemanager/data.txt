@@ -1,0 +1,28 @@
+{
+"email": "john@do.com",
+"imageUrl": "https://pickaface.net/gallery/avatar/unr_coolboy_170926_1506_2powfyt.png",
+"jobTitle": "CEO",
+"name": "John Doe",
+"phone": "123-456-7890"
+}
+{
+"email": "angel@ique.com",
+"imageUrl": "https://pickaface.net/gallery/avatar/gore7melo.156ed69f040f16.png",
+"jobTitle": "developer",
+"name": "Angel Ique",
+"phone": "123-456-7891"
+}
+{
+"email": "cailin@minog.com",
+"imageUrl": "https://pickaface.net/avatar/214774/brianabananna.html",
+"jobTitle": "product manager",
+"name": "Cailin Minog",
+"phone": "123-456-7892"
+}
+{
+"email": "briana@banana.com",
+"imageUrl": "https://pickaface.net/gallery/avatar/20130513_172155_3343_brianabananna.png",
+"jobTitle": "happy developer",
+"name": "Briana Bananna",
+"phone": "123-456-7893"
+}
